@@ -10,9 +10,6 @@ public class Base {
     public static void setup() {     
 
         RestAssured.baseURI = "http://jsonplaceholder.typicode.com";
-        //RestAssured.port = Integer.valueOf(8080);
-        //RestAssured.basePath = "/Recon/";
-
 
     }	
 	
