@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+  <test name="Test">
+    <classes>
+    	<class name="com.sample.restassured.ApiTests.Albums"/>
+    	<class name="com.sample.restassured.ApiTests.Comments"/>
+    	<class name="com.sample.restassured.ApiTests.Photos"/>
+      	<class name="com.sample.restassured.ApiTests.Posts"/>
+      	<class name="com.sample.restassured.ApiTests.ResponseCodes"/>
+      	<class name="com.sample.restassured.ApiTests.Todos"/>
+      	<class name="com.sample.restassured.ApiTests.Users"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
