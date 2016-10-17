@@ -1,5 +1,5 @@
 # restapitestsample
-Sample Rest API test suite using restassured and Java
+Sample Rest API test suite using REST-assured and Java
 
 These tests are calling sample REST APis from https://jsonplaceholder.typicode.com/
 
