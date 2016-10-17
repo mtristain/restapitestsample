@@ -1,9 +1,9 @@
 # restapitestsample
-Sample Rest API test suite using REST-assured and Java
+Sample Rest API test suite using REST-assured and Java with Maven
 
 These tests are calling sample REST APis from https://jsonplaceholder.typicode.com/
 
-I am using TestNG and restassured
+I am using TestNG and REST-assured
 
 To install:
 
